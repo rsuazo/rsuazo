@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Robert</h1>
-<h3 align="center">Full Stack Developer | Former IT Professional</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 📝 Checkout my Portfolio & Blog Website at [robertsuazo.me](https://robertsuazo.me)
 
