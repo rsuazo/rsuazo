@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+
   <ul>
     <li>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
     
     </li>
   </ul>
-</p>
+
   
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rsuazo2/
